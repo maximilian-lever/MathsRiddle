@@ -1,4 +1,4 @@
-<?php include('./vendors/php/conjson.php') ?>
+
 <!doctype html>
 	<html lang="en">
 		<head>
@@ -8,7 +8,6 @@
 			<title>Math Riddles</title>
 		</head>
 		<body>
-			<h1>Math Riddles</h1>
-			<?php '<div>'.$riddle->question.'</div>' ?>
+			<?php'<h1>Math Riddles</h1>' ?>
 		</body>
 	</html>
